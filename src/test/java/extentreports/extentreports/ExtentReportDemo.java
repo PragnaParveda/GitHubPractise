@@ -33,5 +33,9 @@ public class ExtentReportDemo {
 		extent.flush();
 
 	}
+	
+	public void print() {
+		System.out.println("pragna");
+	}
 
 }
