@@ -37,5 +37,11 @@ public class ExtentReportDemo {
 	public void print() {
 		System.out.println("pragna");
 	}
+	
+	public void developbranch() {
+		System.out.println("develop code");
+	}
 
+	
+	
 }
